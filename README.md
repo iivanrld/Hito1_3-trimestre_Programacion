@@ -1,5 +1,5 @@
-# Hito1_3-trimestre_Programacion
-3 carpetas cor cada cuestion
+# Hito1_3-trimestre_Programacion IVAN_ROLDAN_HEREDIA
+1 carpeta cor cada cuestion
 
 CUESTIÓN 1. POO en Java y colecciones
 ▪ Diseña un ejemplo de clases en donde puedas demostrar la herencia en Java. Explica si es posible
